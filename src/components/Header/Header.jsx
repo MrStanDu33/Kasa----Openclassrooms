@@ -1,4 +1,4 @@
-import styles from "../index.css";
+import styles from "./Header.module.scss";
 
 function Header(props) {
     return (
@@ -11,5 +11,5 @@ function Header(props) {
       </div>
     );
   }
-  
+
   export default Header;
